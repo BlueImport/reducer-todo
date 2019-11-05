@@ -7,7 +7,7 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: #3c4652;
-  background: #b0b2b3
+  background-image: url(../src/images/todo_bg.jpg)
 }
 
 h1 {
@@ -24,7 +24,7 @@ h1 {
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(36, 39, 36);
   min-height: 100vh;
   display: flex;
   flex-direction: column;

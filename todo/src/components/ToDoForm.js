@@ -14,7 +14,7 @@ const ToDoForm = ({ dispatch }) => {
           type="text"
           name="item"
           value={task}
-          placeholder="What's for today?"
+          placeholder="Add A Task"
           onChange={handleChange}
         />
       </label>

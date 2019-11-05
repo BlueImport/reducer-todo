@@ -1,7 +1,7 @@
 export const initialState = {
     toDoList: [
       {
-        task: "Farm an abyssal whip",
+        task: "Work Work Work Work Work",
         completed: "false",
         id: 3892987589
       }
